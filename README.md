@@ -13,5 +13,5 @@ During my first stint at IBM Research, I continued work in this direction -- usi
 safety guarantees for reinforcement learning algorithms.
 
 I was then a Senior Applied Scientist at Amazon Web Services for a couple of years, where I worked on [CodeWhisperer](https://aws.amazon.com/codewhisperer/), an ML-powered coding companion.
-Prior to Amazon, I was a Research Staff Member in MIT-IBM AI Lab, where I worked on theory and tooling for 
-building safe autonomous systems. 
+
+I'm now back at IBM Research working on [generative computing](https://www.ibm.com/think/news/how-generative-computing-reinvent-software).
